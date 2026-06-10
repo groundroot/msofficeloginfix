@@ -2,9 +2,13 @@
 
 ## 오류 증상
 
-> "Another account from your organization is already signed in on this device"
+Microsoft 365 (Office, Teams, OneDrive 등) 로그인 시 아래 오류가 발생하는 경우 이 스크립트로 해결합니다.
 
-Microsoft 365 (Office, Teams, OneDrive 등) 로그인 시 위 오류가 발생하는 경우 이 스크립트로 해결합니다.
+> **한국어**  
+> 조직의 다른 계정이 이미 이 장치에 로그인되어 있습니다. 다른 계정으로 다시 시도하세요.
+
+> **English**  
+> Another account from your organization is already signed in on this device. Try again with a different account.
 
 ## 원인
 
